@@ -4,7 +4,7 @@ Nessa versão o front e back não estão integrados.
 # DAC-BANTADS
 Disciplina: Desenvolvimento de Aplicações Corporativas(DAC).<br>
 Orientação: Prof. Dr. Razer A N R Montaño. <br><br>
-O objetivo deste trabalho é o desenvolvimento de um sistema (MVC) de Internet Banking usando Angular e Java Spring, baseado na arquitetura de microsserviços.<br><br>
+O objetivo deste trabalho é o desenvolvimento de um sistema (MVC) de Internet Banking usando Angular e Java Spring, baseado na arquitetura de microsserviços, utilizando conteinerização com o docker.<br><br>
 A arquitetura do sistema será desenvolvida com base no seguinte diagrama:
 <img src="images/diagrama_arquitetura.png" alt="diagrama da arquitetura">
 
@@ -252,24 +252,24 @@ A arquitetura do sistema será desenvolvida com base no seguinte diagrama:
     - [x] ~~Criação do repositório GITHUB~~
 
   * Scripts.
-    - [ ] Build do API Gateway.
-    - [ ] Build do MS Conta.
-    - [ ] Build do MS Gerente.
-    - [ ] Build do MS Cliente.
-    - [ ] Build do MS Autenticação.
-    - [ ] Build do Orquestrador.
-    - [ ] Geração Imagem API Gateway.
-    - [ ] Geração Imagem MS Conta.
-    - [ ] Geração Imagem MS Gerente.
-    - [ ] Geração Imagem MS Cliente.
-    - [ ] Geração Imagem MS Autenticação.
-    - [ ] Geração Imagem Orquestrador.
-    - [ ] Geração Imagem BD Conta - CUD.
-    - [ ] Geração Imagem BD Conta - R.
-    - [ ] Geração Imagem BD Gerente.
-    - [ ] Geração Imagem BD Cliente.
-    - [ ] Geração Imagem BD Autenticação.
-    - [ ] Executar Aplicação.
+    - [x] Build do API Gateway.
+    - [x] Build do MS Conta.
+    - [x] Build do MS Gerente.
+    - [x] Build do MS Cliente.
+    - [x] Build do MS Autenticação.
+    - [x] Build do Orquestrador.
+    - [x] Geração Imagem API Gateway.
+    - [x] Geração Imagem MS Conta.
+    - [x] Geração Imagem MS Gerente.
+    - [x] Geração Imagem MS Cliente.
+    - [x] Geração Imagem MS Autenticação.
+    - [x] Geração Imagem Orquestrador.
+    - [x] Geração Imagem BD Conta - CUD.
+    - [x] Geração Imagem BD Conta - R.
+    - [x] Geração Imagem BD Gerente.
+    - [x] Geração Imagem BD Cliente.
+    - [x] Geração Imagem BD Autenticação.
+    - [x] Executar Aplicação.
 
   * API GATEWAY
     - [ ] Controller REST(app).
