@@ -1,7 +1,10 @@
+Backend desenvolvido inteiramente por mim.
+Nessa versão o front e back não estão integrados.
+
 # DAC-BANTADS
 Disciplina: Desenvolvimento de Aplicações Corporativas(DAC).<br>
 Orientação: Prof. Dr. Razer A N R Montaño. <br><br>
-O objetivo deste trabalho é o desenvolvimento de um sistema de Internet Banking usando Angular e Java Spring, baseado na arquitetura de microsserviços.<br><br>
+O objetivo deste trabalho é o desenvolvimento de um sistema (MVC) de Internet Banking usando Angular e Java Spring, baseado na arquitetura de microsserviços.<br><br>
 A arquitetura do sistema será desenvolvida com base no seguinte diagrama:
 <img src="images/diagrama_arquitetura.png" alt="diagrama da arquitetura">
 
